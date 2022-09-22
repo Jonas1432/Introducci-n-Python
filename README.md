@@ -1,1 +1,3 @@
-# Introducci-n-Python
+# Introducción-Python
+
+Se realizara varios ejercciones en vase al codigo Python...
