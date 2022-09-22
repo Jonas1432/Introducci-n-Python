@@ -7,4 +7,6 @@ def sumGeometric(a, r, n):
    s = a * (1 - r ** n) / (1 - r) 
    #regresa el valor de s 
    return s
-print(sumGeometric(4, 3, 8))
+if __name__ == "__main__": 
+    print('Ejecutando la funtiom con valores 2,3,4')
+    print(sumGeometric(2, 3, 4))
